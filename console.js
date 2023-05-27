@@ -1,2 +1,2 @@
 // hey this is my comment
-console.lo ("hello world")
+console.log ("hello world")
